@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:211A45,100:6D28D9&height=150&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Vaishnavi%20MD.&fontSize=24&fontColor=F5F3FF&fontAlignY=43&desc=following%20curiosity%20into%20creation%20%&descSize=11&descColor=C4B5FD&descAlignY=67" width="100%" alt="Hi👋, I'm Vaishnavi MD — following curiosity into creation."/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:211A45,100:6D28D9&height=150&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Vaishnavi&fontSize=24&fontColor=F5F3FF&fontAlignY=43&desc=following%20curiosity%20into%20creation%20%&descSize=11&descColor=C4B5FD&descAlignY=67" width="100%" alt="Hi👋, I'm Vaishnavi MD — following curiosity into creation."/>
 </div>
 
 </div>
