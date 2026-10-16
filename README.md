@@ -3,14 +3,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:211A45,100:6D28D9&height=150&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Vaishnavi%20MD.&fontSize=24&fontColor=F5F3FF&fontAlignY=43&desc=following%20curiosity%20into%20creation%20%&descSize=11&descColor=C4B5FD&descAlignY=67" width="100%" alt="Hi👋, I'm Vaishnavi MD — following curiosity into creation."/>
 </div>
-<br/>
-
-<a href="https://github.com/VaishnaviMD">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=E5E7EB" alt="GitHub profile"/>
-</a>
-<a href="https://www.linkedin.com/in/vaishnavi-mutalikdesai/">
-  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn profile"/>
-</a>
 
 </div>
 
@@ -146,4 +138,20 @@ I enjoy sketching, painting, and exploring design alongside software development
 
 Beyond my full-stack projects, I'm exploring deep learning through my capstone project on **Myopia Detection**, where I'm working with machine learning models for image-based classification.
 
-Always learning, building, and turning ideas into something real.
+<br><br>
+<div align="center">
+
+  <p>Explore my work and connect with me </p>
+
+  <a href="https://github.com/VaishnaviMD">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vaishnavi-mutalikdesai/">
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <br><br>
+
+  <sub><h3>Always learning, building, and turning ideas into something real!</h3></sub>
+
+</div>
